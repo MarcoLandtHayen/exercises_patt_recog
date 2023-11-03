@@ -1,7 +1,7 @@
 # exercises_patt_recog
-Exercises for lecture on pattern recognition at CAU Kiel (WiSe 2023/24) by Prof. Hauke Schramm.
+Practical exercises for lecture on pattern recognition at CAU Kiel (WiSe 2023/24) by Prof. Hauke Schramm.
 
-Use Octave in combination with Jupyter notebooks, including gnuplot. 
+Use Python and Octave (including gnuplot) in combination with Jupyter notebooks.
 
 A corresponding **Docker Container** can be found on [DockerHub](https://hub.docker.com/repository/docker/mlandthayen/jupyter-octave-extended/general/). 
 
